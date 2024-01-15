@@ -1,7 +1,7 @@
 ### Hello there, I'm Omar Alsyouf! 👋
 
 
-- 🔭 I’m currently working on [Renuu's website](https://renuu.org/), this startup is following the MVP methodology, so this app is completed yet.
+- 🔭 I’m currently working on [Renuu's website](https://renuu.org/), this startup is following the MVP methodology, so this app is NOT completed yet.
 - 🌱 I’m also improving my designing and development skills at the moment.
 - 👯 I’m looking to collaborate on big open-source projects.
 - 💬 Ask me about JavaScript or any development-related stuff.
